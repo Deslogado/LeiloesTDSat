@@ -1,9 +1,10 @@
 (Projeto do curso)
 
-  LeiloesTDSat 
+#LeiloesTDSat 
 Projeto para a rotina de uma casa de leilões.
 
-  Tecnologias utilizadas
+
+#Tecnologias utilizadas
 java
 MySQL Workbench
 Git
